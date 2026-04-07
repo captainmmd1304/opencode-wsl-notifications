@@ -5,6 +5,9 @@ Get **native Windows notifications** when using OpenCode inside **WSL (Windows S
 This plugin bridges the gap between Linux and Windows by triggering **Windows toast notifications** via `powershell.exe`.
 
 ---
+## 📸 Preview
+
+![Windows Notification Demo](./screenshots/notification-2.png)
 
 ## ✨ Features
 
