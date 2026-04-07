@@ -8,6 +8,7 @@ This plugin bridges the gap between Linux and Windows by triggering **Windows to
 ## 📸 Preview
 
 ![Windows Notification Demo](./screenshots/notification-2.png)
+![Windows Notification Demo](./screenshots/notification-1.png)
 
 ## ✨ Features
 
